@@ -10,7 +10,7 @@ const Cards = () => {
     <>
       <div className="w-1/2 mx-auto">
         <CreateCard />
-        change
+        change test
       </div>
       <hr className="hr my-5" />
       <CardList />
